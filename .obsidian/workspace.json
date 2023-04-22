@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md"
               }
             }
           }
@@ -137,7 +137,12 @@
   },
   "active": "4b980d2ebec03466",
   "lastOpenFiles": [
+    "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
+    "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
+    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
+    "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
+    "README.md",
     "ChapterNo1 美编的开始/1.1 前期准备.md",
     "荆棘鸟文学社工作流.canvas",
     "ChapterNo4 图片处理/4.2 图片的存储原理和格式转换.md",
@@ -151,16 +156,11 @@
     "assets/Pasted image 20230422132112.png",
     "assets/Pasted image 20230422131627.png",
     "2023-04-22.md",
-    "README.md",
     "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
     "ChapterNo4 图片处理/4.3 修缮图片.md",
     "assets/Pasted image 20230422130146.png",
     "assets/Pasted image 20230422124403.png",
     "assets/ad8f516f5b86bcc96e800346d7cf1a77_MD5.png",
-    "assets/073c4599ef5fcc15e08798c45ee576b3_MD5.png",
-    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
-    "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
-    "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
-    "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md"
+    "assets/073c4599ef5fcc15e08798c45ee576b3_MD5.png"
   ]
 }
