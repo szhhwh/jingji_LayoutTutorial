@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Things",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
 }
