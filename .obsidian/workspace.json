@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChapterNo6 大功告成/6.1 上交排版作品.md",
+                "file": "ChapterNo5 素材管理/5.2 素材管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChapterNo6 大功告成/6.1 上交排版作品.md",
+                "file": "ChapterNo5 素材管理/5.2 素材管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChapterNo6 大功告成/6.1 上交排版作品.md",
+                "file": "ChapterNo5 素材管理/5.2 素材管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChapterNo6 大功告成/6.1 上交排版作品.md"
+                "file": "ChapterNo5 素材管理/5.2 素材管理.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +148,14 @@
   },
   "active": "dcca221d23ddb326",
   "lastOpenFiles": [
+    "assets/Pasted image 20230422124403.png",
+    "ChapterNo5 素材管理/5.1 字体管理.md",
+    "ChapterNo5 素材管理/5.2 素材管理.md",
+    "ChapterNo4 图片处理/4.2 图片的存储原理和格式转换.md",
+    "ChapterNo4 图片处理/4.1 搜寻图片素材.md",
+    "ChapterNo6 大功告成/6.1 上交排版作品.md",
     "assets/ad8f516f5b86bcc96e800346d7cf1a77_MD5.png",
     "assets/073c4599ef5fcc15e08798c45ee576b3_MD5.png",
-    "ChapterNo5 素材管理/5.2 素材管理.md",
-    "ChapterNo6 大功告成/6.1 上交排版作品.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
     "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
     "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
