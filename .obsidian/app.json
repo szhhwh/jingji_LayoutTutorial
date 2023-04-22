@@ -3,5 +3,11 @@
   "rightToLeft": false,
   "useTab": false,
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
