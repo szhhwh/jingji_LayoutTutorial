@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +135,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dce30d80b5c6851d",
+  "active": "4b980d2ebec03466",
   "lastOpenFiles": [
-    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
-    "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
     "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
+    "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
+    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
     "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
     "README.md",
