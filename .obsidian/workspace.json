@@ -112,25 +112,23 @@
             }
           },
           {
-            "id": "dce30d80b5c6851d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ChapterNo5 素材管理/5.1 字体管理.md"
-              }
-            }
-          },
-          {
             "id": "5a26ef1419ca5bfb",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "207c245175f0dcd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
