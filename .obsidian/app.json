@@ -14,5 +14,6 @@
   "foldHeading": false,
   "showFrontmatter": false,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }

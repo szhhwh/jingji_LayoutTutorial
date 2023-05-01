@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChapterNo5 素材管理/5.1 字体管理.md",
+                "file": "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChapterNo5 素材管理/5.1 字体管理.md",
+                "file": "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChapterNo5 素材管理/5.1 字体管理.md",
+                "file": "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md"
+              }
             }
           }
         ],
@@ -143,13 +145,24 @@
   },
   "active": "4b980d2ebec03466",
   "lastOpenFiles": [
+    "assets/Pasted image 20230501171751.png",
+    "ChapterNo3 InDesign软件/3.1 安装和新建文档.md",
+    "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
+    "assets/Pasted image 20230501170410.png",
+    "assets/Pasted image 20230501170404.png",
+    "ChapterNo3 InDesign软件/3.2 新建文本框和页面管理.md",
+    "assets/Pasted image 20230501165030.png",
+    "assets/Pasted image 20230501164027.png",
+    "assets/Pasted image 20230501163742.png",
+    "assets/Pasted image 20230501163537.png",
+    "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
+    "ChapterNo5 素材管理/5.2 素材管理.md",
+    "ChapterNo5 素材管理/5.1 字体管理.md",
     "assets/Pasted image 20230429225118.png",
     "assets/Pasted image 20230429225113.png",
-    "ChapterNo5 素材管理/5.1 字体管理.md",
     "assets/Pasted image 20230429223107.png",
     "assets/Pasted image 20230429223054.png",
     "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
-    "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
     "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
     "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
@@ -158,19 +171,10 @@
     "荆棘鸟文学社工作流.canvas",
     "ChapterNo4 图片处理/4.2 图片的存储原理和格式转换.md",
     "ChapterNo4 图片处理/4.1 搜寻图片素材.md",
-    "ChapterNo5 素材管理/5.2 素材管理.md",
     "ChapterNo6 大功告成/6.1 上交排版作品.md",
     "ChapterNo6 大功告成/6.2 汇总排版.md",
     "ChapterNo6 大功告成/6.3 出刊的其他注意事项.md",
-    "ChapterNo3 InDesign软件/3.1 安装和新建文档.md",
-    "assets/Pasted image 20230422132112.png",
-    "assets/Pasted image 20230422131627.png",
     "2023-04-22.md",
-    "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
-    "ChapterNo4 图片处理/4.3 修缮图片.md",
-    "assets/Pasted image 20230422130146.png",
-    "assets/Pasted image 20230422124403.png",
-    "assets/ad8f516f5b86bcc96e800346d7cf1a77_MD5.png",
-    "assets/073c4599ef5fcc15e08798c45ee576b3_MD5.png"
+    "ChapterNo4 图片处理/4.3 修缮图片.md"
   ]
 }
