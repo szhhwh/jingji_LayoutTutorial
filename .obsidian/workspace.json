@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,9 +167,10 @@
   },
   "active": "4b980d2ebec03466",
   "lastOpenFiles": [
+    "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+    "README.md",
     "ChapterNo1 美编的开始/1.1 前期准备.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
-    "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
     "ChapterNo6 大功告成/6.2 汇总排版.md",
     "ChapterNo6 大功告成/6.1 上交排版作品.md",
     "ChapterNo5 素材管理/5.2 素材管理.md",
@@ -177,7 +178,6 @@
     "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
     "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
     "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
-    "README.md",
     "荆棘鸟文学社工作流.canvas",
     "ChapterNo6 大功告成/6.3 出刊的其他注意事项.md",
     "ChapterNo4 图片处理/4.3 修缮图片.md",
