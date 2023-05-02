@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "data",
   "rightToLeft": false,
   "useTab": false,
   "trashOption": "local",
@@ -15,5 +15,7 @@
   "showFrontmatter": false,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": true
 }
