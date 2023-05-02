@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md"
+                "file": "ChapterNo2 排版的基本知识/2.1 文字基本属性.md"
               }
             }
           }
@@ -155,29 +155,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a26ef1419ca5bfb",
+  "active": "4b980d2ebec03466",
   "lastOpenFiles": [
-    "ChapterNo1 美编的开始/1.1 前期准备.md",
+    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
     "ChapterNo1 美编的开始/0.0 荆棘鸟文学社美编标准.md",
+    "ChapterNo1 美编的开始/1.1 前期准备.md",
     "ChapterNo1 美编的开始/f.md",
     "ChapterNo3 InDesign软件/3.1 安装和新建文档.md",
     "ChapterNo3 InDesign软件/3.2 新建文本框和页面管理.md",
     "ChapterNo3 InDesign软件/3.4 其他常用功能（面板）.md",
-    "assets/Pasted image 20230501171751.png",
-    "assets/Pasted image 20230501170410.png",
-    "assets/Pasted image 20230501170404.png",
-    "assets/Pasted image 20230501165030.png",
-    "assets/Pasted image 20230501164027.png",
-    "assets/Pasted image 20230501163742.png",
-    "assets/Pasted image 20230501163537.png",
+    "data/Pasted image 20230501171751.png",
+    "data/Pasted image 20230501170410.png",
+    "data/Pasted image 20230501170404.png",
+    "data/Pasted image 20230501165030.png",
+    "data/Pasted image 20230501164027.png",
+    "data/Pasted image 20230501163742.png",
+    "data/Pasted image 20230501163537.png",
     "ChapterNo2 排版的基本知识/2.3 特殊文字效果.md",
     "ChapterNo5 素材管理/5.2 素材管理.md",
     "ChapterNo5 素材管理/5.1 字体管理.md",
-    "assets/Pasted image 20230429225118.png",
+    "data/Pasted image 20230429225118.png",
     "assets/Pasted image 20230429225113.png",
-    "assets/Pasted image 20230429223107.png",
+    "data/Pasted image 20230429223107.png",
     "ChapterNo2 排版的基本知识/2.2 文字排版及规范.md",
-    "ChapterNo2 排版的基本知识/2.1 文字基本属性.md",
     "ChapterNo1 美编的开始/1.2 美编部工作流程.canvas",
     "README.md",
     "荆棘鸟文学社工作流.canvas",
