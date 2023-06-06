@@ -1,6 +1,10 @@
 # 荆棘鸟文学社美编参考文档
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial) [![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial)
 
-以下为本书目录：
+内部排版文档，禁止外传。  
+本文档会不定时更新和完善。  
+
+## 本书目录：
 
 - [ChapterNo1 美编的开始](src/ChapterNo1/README.md)
     - [荆棘鸟文学社美编标准](src/ChapterNo1/1.1.md)
@@ -25,3 +29,25 @@
     - [上交排版作品](src/ChapterNo6/6.1.md)
     - [汇总排版](src/ChapterNo6/6.2.md)
     - [出刊的其他注意事项](src/ChapterNo6/6.3.md)
+
+## 更新日志：
+
+### v0.1.2 Latest
+Fixed
+- 部分链接不能点击的问题
+- 添加了分页标题
+- 修复carbin块的显示问题
+
+New
+- 更新 4.2 图片的存储原理和格式转换
+- 更新 3.3 图层和参考线的使用
+
+Other
+- 非常多的细节修复
+- 放弃使用obsidian作为编辑器
+
+### v0.1.0
+- 从gitbook迁移到mdbook
+
+### v0.0.1
+- 使用gitbook新建项目
