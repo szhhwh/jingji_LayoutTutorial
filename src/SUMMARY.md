@@ -21,5 +21,5 @@
     - [素材管理](ChapterNo5/5.2.md)
 - [ChapterNo6 大功告成](./ChapterNo6/README.md)
     - [上交排版作品](ChapterNo6/6.1.md)
-    - [排版汇总 TODO](ChapterNo6/6.2.md)
-    - [出刊的其他注意事项 TODO](ChapterNo6/6.3.md)
+    - [排版汇总](ChapterNo6/6.2.md)
+    - [出刊的其他注意事项](ChapterNo6/6.3.md)

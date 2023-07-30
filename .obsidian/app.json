@@ -6,5 +6,6 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "src/data",
   "strictLineBreaks": true,
-  "useTab": true
+  "useTab": true,
+  "newLinkFormat": "relative"
 }

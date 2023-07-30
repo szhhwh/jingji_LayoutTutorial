@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bdfe16ffbbe0e996",
+        "id": "3abe38bda45d4f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "07f451c661bb1983",
+            "id": "11e8a0e5c0088dc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/ChapterNo6/6.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c61ec19f7bf3516a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,7 +46,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ChapterNo6/6.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ChapterNo6/6.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/ChapterNo6/6.1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,24 +135,43 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "07f451c661bb1983",
+  "active": "11e8a0e5c0088dc4",
   "lastOpenFiles": [
+    "src/ChapterNo5/5.2.md",
+    "src/ChapterNo6/6.3.md",
     "src/ChapterNo6/6.2.md",
-    "src/ChapterNo6/6.1.md",
-    "src/data/Pasted image 20230730121113.png",
-    "src/data/Pasted image 20230730121041.png",
-    "src/data/Pasted image 20230730121002.png",
-    "src/data/Pasted image 20230730120855.png",
-    "src/data/Pasted image 20230730120811.png",
+    "book/ayu-highlight.css",
+    "book/book.js",
+    "book/404.html",
+    "book/ChapterNo2/2.3.html",
+    "book/data/Pasted image 20230730143423.png",
+    "book/data/Pasted image 20230422020529.png",
+    "book/data/Pasted image 20230422020507.png",
+    "book/data/Pasted image 20230422015103.png",
+    "book/data/Pasted image 20230422015001.png",
+    "book/data/Pasted image 20230422014940.png",
+    "book/data/Pasted image 20230422014908.png",
+    "book/data/Pasted image 20230409101507.png",
+    "book/data/Pasted image 20230409101023.png",
+    "book/data/Pasted image 20230409100941.png",
+    "book/ChapterNo2/2.2.html",
+    "book/ChapterNo2/2.1.html",
+    "book/clipboard.min.js",
+    "book/css/variables.css",
+    "book/css/print.css",
+    "book/css/general.css",
     "README.md",
-    "src/ChapterNo1/1.1.md",
+    "src/SUMMARY.md",
+    "src/ChapterNo6/6.1.md",
+    "src/ChapterNo2/2.1.md",
+    "src/ChapterNo3/3.4.md",
+    "src/ChapterNo4/4.1.md",
+    "src/ChapterNo4/4.2.md",
+    "src/ChapterNo4/4.3.md",
+    "src/ChapterNo5/5.1.md",
+    "src/ChapterNo6/README.md",
     "src/README.md",
-    "src/ChapterNo1/README.md",
-    "src/data/Pasted image 20230730115914.png",
-    "src/data/Pasted image 20230730115731.png",
-    "src/data/Pasted image 20230730115308.png",
-    "src/data/Pasted image 20230730113538.png",
-    "src/data/Pasted image 20230730113529.png",
-    "src/ChapterNo6/6.3.md"
+    "src/ChapterNo1/1.1.md",
+    "src/ChapterNo1/README.md"
   ]
 }
