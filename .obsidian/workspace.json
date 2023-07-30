@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3abe38bda45d4f3b",
+        "id": "be2d61155a80f1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "11e8a0e5c0088dc4",
+            "id": "a384743c40007091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/ChapterNo6/6.1.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/ChapterNo6/6.1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/ChapterNo6/6.1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ChapterNo6/6.1.md"
+                "file": "README.md"
               }
             }
           }
@@ -143,8 +139,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "11e8a0e5c0088dc4",
+  "active": "351a165d78ffbac1",
   "lastOpenFiles": [
+    "src/ChapterNo6/6.3.md",
+    "src/ChapterNo6/6.2.md",
+    "README.md",
+    "src/ChapterNo6/6.1.md",
     "src/ChapterNo3/3.3.md",
     "book/ayu-highlight.css",
     "book/book.js",
@@ -157,8 +157,6 @@
     "src/ChapterNo4/4.1.md",
     "src/ChapterNo3/3.4.md",
     "src/ChapterNo5/5.2.md",
-    "src/ChapterNo6/6.3.md",
-    "src/ChapterNo6/6.2.md",
     "book/ChapterNo2/2.3.html",
     "book/data/Pasted image 20230730143423.png",
     "book/data/Pasted image 20230422020529.png",
@@ -176,9 +174,7 @@
     "book/css/variables.css",
     "book/css/print.css",
     "book/css/general.css",
-    "README.md",
     "src/SUMMARY.md",
-    "src/ChapterNo6/6.1.md",
     "src/ChapterNo2/2.1.md",
     "src/ChapterNo5/5.1.md",
     "src/ChapterNo6/README.md",
