@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "817b757c4254e675",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfe16ffbbe0e996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f451c661bb1983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/ChapterNo6/6.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c61ec19f7bf3516a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb9f3c0306a76318",
+    "type": "split",
+    "children": [
+      {
+        "id": "37019de68313aabf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "351a165d78ffbac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7d5d48c76a23b4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c91fe2b94932a3c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "16823b4921d568ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "da551e20733df25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703c8d68d6fab1cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/ChapterNo6/6.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f0104dc08f6db61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/ChapterNo6/6.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a9cb1fa7e596b25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c37e21f61bc148b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/ChapterNo6/6.1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "07f451c661bb1983",
+  "lastOpenFiles": [
+    "src/ChapterNo6/6.2.md",
+    "src/ChapterNo6/6.1.md",
+    "src/data/Pasted image 20230730121113.png",
+    "src/data/Pasted image 20230730121041.png",
+    "src/data/Pasted image 20230730121002.png",
+    "src/data/Pasted image 20230730120855.png",
+    "src/data/Pasted image 20230730120811.png",
+    "README.md",
+    "src/ChapterNo1/1.1.md",
+    "src/README.md",
+    "src/ChapterNo1/README.md",
+    "src/data/Pasted image 20230730115914.png",
+    "src/data/Pasted image 20230730115731.png",
+    "src/data/Pasted image 20230730115308.png",
+    "src/data/Pasted image 20230730113538.png",
+    "src/data/Pasted image 20230730113529.png",
+    "src/ChapterNo6/6.3.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "src/data",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "src/data",
+  "strictLineBreaks": true,
+  "useTab": true
+}
