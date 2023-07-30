@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 汇总排版流程图.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#feffff;stroke:#73acd9;stroke-width:1}
+		.st2 {fill:#73acd9;font-family:黑体;font-size:0.833336em}
+		.st3 {marker-end:url(#mrkr4-15);stroke:#73acd9;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:#73acd9;fill-opacity:1;stroke:#73acd9;stroke-opacity:1;stroke-width:0.3315649867374}
+		.st5 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st6 {fill:#73acd9;font-family:黑体;font-size:0.666664em}
+		.st7 {font-family:Calibri;font-size:1em}
+		.st8 {font-size:1em}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-15" class="st4" v:arrowType="4" v:arrowSize="2" v:setback="6.032" refX="-6.032" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.016,-3.016) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<v:layer v:name="容器" v:index="1"/>
+		<v:layer v:name="标注" v:index="2"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(36.9516,-390.911)">
+			<title>矩形</title>
+			<desc>制作人</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<rect x="0" y="552.756" width="113.386" height="42.5197" class="st1"/>
+			<text x="41.69" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>制作人</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(205.512,-390.911)">
+			<title>矩形.2</title>
+			<desc>汇总人</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<rect x="0" y="552.756" width="113.386" height="42.5197" class="st1"/>
+			<text x="41.69" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>汇总人</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(205.512,-288.054)">
+			<title>菱形</title>
+			<desc>检查</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="552.756" width="113.39" height="85.0394"/>
+			<path d="M56.69 595.28 L113.39 552.76 L56.69 510.24 L0 552.76 L56.69 595.28 Z" class="st1"/>
+			<text x="46.69" y="556.08" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>检查</text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(255.118,-390.911)">
+			<title>动态连接线</title>
+			<path d="M7.09 595.28 L7.09 605.55" class="st3"/>
+		</g>
+		<g id="shape5-16" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(205.512,-330.574)">
+			<title>动态连接线.5</title>
+			<desc>不合格</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-86.1024" cy="595.276" width="40" height="18.6536"/>
+			<path d="M0 595.28 L-111.87 595.28 L-111.87 542.48" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-98.1024" y="589.951" width="23.9999" height="10.6501" class="st5"/>
+			<text x="-98.1" y="597.94" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>不合格</text>		</g>
+		<g id="shape6-23" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(318.898,-330.574)">
+			<title>动态连接线.6</title>
+			<desc>合格</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6438" cy="597.863" width="40" height="18.6536"/>
+			<path d="M0 595.28 L83.99 595.28 L83.99 582.7" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="49.6439" y="592.539" width="15.9999" height="10.6501" class="st5"/>
+			<text x="49.64" y="600.53" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>合格</text>		</g>
+		<g id="shape7-30" v:mID="7" v:groupContext="shape" transform="translate(346.194,-350.686)">
+			<title>矩形.7</title>
+			<desc>分类整理复制/添加页码</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<rect x="0" y="552.756" width="113.386" height="42.5197" class="st1"/>
+			<text x="4.76" y="570.69" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>分类整理（复制<tspan
+						class="st7">/</tspan>添加页<tspan x="46.69" dy="1.331em" class="st8">码</tspan>）</text>		</g>
+		<g id="shape8-35" v:mID="8" v:groupContext="shape" transform="translate(564.867,-370.799)">
+			<title>矩形.8</title>
+			<desc>汇总用indesign文件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<rect x="0" y="552.756" width="113.386" height="42.5197" class="st1"/>
+			<text x="14.72" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>汇总用<tspan class="st7">indesign</tspan>文件</text>		</g>
+		<g id="shape9-39" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(150.337,-405.084)">
+			<title>动态连接线.9</title>
+			<path d="M0 588.19 L47.63 588.19" class="st3"/>
+		</g>
+		<g id="shape10-44" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(459.58,-371.946)">
+			<title>动态连接线.10</title>
+			<path d="M0 595.28 L12.67 595.28 L12.67 575.16 L97.75 575.16" class="st3"/>
+		</g>
+		<g id="shape22-49" v:mID="22" v:groupContext="shape" transform="translate(564.867,-267.942)">
+			<title>菱形.22</title>
+			<desc>线上审稿</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<path d="M56.69 595.28 L113.39 574.02 L56.69 552.76 L0 574.02 L56.69 595.28 Z" class="st1"/>
+			<text x="36.69" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>线上审稿</text>		</g>
+		<g id="shape18-52" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(614.473,-370.799)">
+			<title>动态连接线.18</title>
+			<desc>导出推荐使用预设高质量打印</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="625.444" width="137.82" height="18.6536"/>
+			<path d="M7.09 595.28 L7.09 648.07" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-56.913" y="620.12" width="128" height="10.6501" class="st5"/>
+			<text x="-56.91" y="628.11" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>导出（推荐使用预设：高质量打印）</text>		</g>
+		<g id="shape23-59" v:mID="23" v:groupContext="shape" transform="translate(428.399,-227.717)">
+			<title>矩形.23</title>
+			<desc>印刷厂家</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<rect x="0" y="552.756" width="113.386" height="42.5197" class="st1"/>
+			<text x="36.69" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>印刷厂家</text>		</g>
+		<g id="shape25-62" v:mID="25" v:groupContext="shape" transform="translate(700.525,-247.829)">
+			<title>菱形.25</title>
+			<desc>线下审稿</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visMasterStencil" v:prompt="" v:val="VT4(Basic_M.vssx)"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="574.016" width="113.39" height="42.5197"/>
+			<path d="M56.69 595.28 L113.39 574.02 L56.69 552.76 L0 574.02 L56.69 595.28 Z" class="st1"/>
+			<text x="36.69" y="577.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>线下审稿</text>		</g>
+		<g id="shape26-65" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(485.092,-227.717)">
+			<title>动态连接线.26</title>
+			<desc>样刊</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="146.119" cy="608.848" width="40" height="18.6536"/>
+			<path d="M0 595.28 L0 608.85 L272.13 608.85 L272.13 582.7" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="138.119" y="603.523" width="15.9999" height="10.6501" class="st5"/>
+			<text x="138.12" y="611.51" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>样刊</text>		</g>
+		<g id="shape27-72" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(621.56,-267.942)">
+			<title>动态连接线.27</title>
+			<desc>合格</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-30.4049" cy="614.241" width="40" height="18.6536"/>
+			<path d="M0 595.28 L0 614.24 L-72.24 614.24" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-38.4049" y="608.916" width="15.9999" height="10.6501" class="st5"/>
+			<text x="-38.4" y="616.9" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>合格</text>		</g>
+		<g id="shape30-79" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(564.867,-289.201)">
+			<title>动态连接线.30</title>
+			<desc>不合格/需要修改</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-111.732" cy="595.276" width="68.91" height="18.6536"/>
+			<path d="M0 595.28 L-161.98 595.28 L-161.98 541.33" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-141.277" y="589.951" width="59.0897" height="10.6501" class="st5"/>
+			<text x="-141.28" y="597.94" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>不合格<tspan
+						class="st7">/</tspan>需要修改</text>		</g>
+		<g id="shape31-87" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(757.218,-290.349)">
+			<title>动态连接线.31</title>
+			<desc>修改错误</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-125.737" cy="447.199" width="41.82" height="18.6536"/>
+			<path d="M0 595.28 L0 447.2 L-354.33 447.2 L-354.33 484.88" class="st3"/>
+			<rect v:rectContext="textBkgnd" x="-141.737" y="441.874" width="31.9999" height="10.6501" class="st5"/>
+			<text x="-141.74" y="449.86" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>修改错误</text>		</g>
+	</g>
+</svg>
