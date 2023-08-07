@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be2d61155a80f1bf",
+        "id": "cd135b49a4fba374",
         "type": "tabs",
         "children": [
           {
-            "id": "a384743c40007091",
+            "id": "39f0f8999e9a8cb5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,10 +137,25 @@
   },
   "active": "351a165d78ffbac1",
   "lastOpenFiles": [
-    "src/ChapterNo6/6.3.md",
-    "src/ChapterNo6/6.2.md",
-    "README.md",
+    "src/SUMMARY.md",
+    "src/ChapterNo4/4.1.md",
+    "book/data/Pasted image 20230730110510.png",
+    "book/data/Pasted image 20230502181520.png",
+    "book/data/Pasted image 20230502181049.png",
+    "book/data/Pasted image 20230502180842.png",
+    "book/data/Pasted image 20230502180614.png",
+    "book/data/Pasted image 20230422023324.png",
+    "book/data/Pasted image 20230422023254.png",
+    "book/data/Pasted image 20230422023043.png",
+    "book/data/Pasted image 20230422022731.png",
+    "book/data/Pasted image 20230422022542.png",
+    "src/ChapterNo4/4.2.md",
+    "src/ChapterNo4/4.3.md",
+    "src/ChapterNo4/README.md",
     "src/ChapterNo6/6.1.md",
+    "src/ChapterNo6/6.2.md",
+    "src/ChapterNo6/6.3.md",
+    "README.md",
     "src/ChapterNo3/3.3.md",
     "book/ayu-highlight.css",
     "book/book.js",
@@ -152,29 +163,15 @@
     "src/ChapterNo3/3.2.md",
     "src/ChapterNo3/3.1.md",
     "src/ChapterNo1/1.2.md",
-    "src/ChapterNo4/4.3.md",
-    "src/ChapterNo4/4.2.md",
-    "src/ChapterNo4/4.1.md",
     "src/ChapterNo3/3.4.md",
     "src/ChapterNo5/5.2.md",
     "book/ChapterNo2/2.3.html",
-    "book/data/Pasted image 20230730143423.png",
-    "book/data/Pasted image 20230422020529.png",
-    "book/data/Pasted image 20230422020507.png",
-    "book/data/Pasted image 20230422015103.png",
-    "book/data/Pasted image 20230422015001.png",
-    "book/data/Pasted image 20230422014940.png",
-    "book/data/Pasted image 20230422014908.png",
-    "book/data/Pasted image 20230409101507.png",
-    "book/data/Pasted image 20230409101023.png",
-    "book/data/Pasted image 20230409100941.png",
     "book/ChapterNo2/2.2.html",
     "book/ChapterNo2/2.1.html",
     "book/clipboard.min.js",
     "book/css/variables.css",
     "book/css/print.css",
     "book/css/general.css",
-    "src/SUMMARY.md",
     "src/ChapterNo2/2.1.md",
     "src/ChapterNo5/5.1.md",
     "src/ChapterNo6/README.md",

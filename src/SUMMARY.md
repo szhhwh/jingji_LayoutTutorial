@@ -15,7 +15,7 @@
 - [ChapterNo4 图片处理](./ChapterNo4/README.md)
     - [搜寻图片素材](ChapterNo4/4.1.md)
     - [图片的存储原理和格式转换](ChapterNo4/4.2.md)
-    - [修缮图片 TODO](ChapterNo4/4.3.md)
+    - [修缮图片](ChapterNo4/4.3.md)
 - [ChapterNo5 素材管理](./ChapterNo5/README.md)
     - [字体管理](ChapterNo5/5.1.md)
     - [素材管理](ChapterNo5/5.2.md)

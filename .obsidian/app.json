@@ -7,5 +7,5 @@
   "attachmentFolderPath": "src/data",
   "strictLineBreaks": true,
   "useTab": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
