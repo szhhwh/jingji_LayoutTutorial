@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd135b49a4fba374",
+        "id": "ea37ecf49c1dda8f",
         "type": "tabs",
         "children": [
           {
-            "id": "39f0f8999e9a8cb5",
+            "id": "0ccc1aface3affe9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,6 +137,8 @@
   },
   "active": "351a165d78ffbac1",
   "lastOpenFiles": [
+    "README.md",
+    "src/README.md",
     "src/SUMMARY.md",
     "src/ChapterNo4/4.1.md",
     "book/data/Pasted image 20230730110510.png",
@@ -155,7 +157,6 @@
     "src/ChapterNo6/6.1.md",
     "src/ChapterNo6/6.2.md",
     "src/ChapterNo6/6.3.md",
-    "README.md",
     "src/ChapterNo3/3.3.md",
     "book/ayu-highlight.css",
     "book/book.js",
@@ -175,7 +176,6 @@
     "src/ChapterNo2/2.1.md",
     "src/ChapterNo5/5.1.md",
     "src/ChapterNo6/README.md",
-    "src/README.md",
     "src/ChapterNo1/1.1.md",
     "src/ChapterNo1/README.md"
   ]
