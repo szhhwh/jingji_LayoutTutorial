@@ -1,10 +1,6 @@
 # 荆棘鸟文学社美编参考文档
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial) [![GitHub Repo stars](https://img.shields.io/github/stars/szhhwh/jingji_LayoutTutorial?style=flat-square)](https://github.com/szhhwh/jingji_LayoutTutorial)
-
-内部排版文档，禁止外传。  
-本文档会不定时更新和完善。  
-
-## 本书目录：
+## 本书目录 Menu
 
 - [ChapterNo1 美编的开始](src/ChapterNo1/README.md)
     - [荆棘鸟文学社美编标准](src/ChapterNo1/1.1.md)
@@ -30,7 +26,21 @@
     - [汇总排版](src/ChapterNo6/6.2.md)
     - [出刊的其他注意事项](src/ChapterNo6/6.3.md)
 
-## 更新日志：
+## 构建 Build
+- 安装 **mdbook**
+```shell
+cargo install mdbook
+```
+- 构建
+```shell
+mdbook build
+```
+- 通过 HTTP 在 `localhost:3000` 提供预览服务
+```shell
+mdbook serve --open
+```
+> [mdbook 官方参考文档](https://rust-lang.github.io/mdBook/index.html)
+## 更新日志 Update log
 ### v0.2.1 Latest
 New
 - 4.1 新增 使用搜索引擎搜寻图片素材
