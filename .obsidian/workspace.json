@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b886009687df2bf",
+        "id": "7fb7fba4570c0d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "0873fe4b1471a4a1",
+            "id": "493caea708d40333",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,11 +135,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "0873fe4b1471a4a1",
+  "active": "493caea708d40333",
   "lastOpenFiles": [
+    "src/ChapterNo1/1.1.md",
+    "src/ChapterNo1/1.2.md",
+    "README.md",
     "src/SUMMARY.md",
     "src/README.md",
-    "README.md",
     "src/ChapterNo4/4.1.md",
     "book/data/Pasted image 20230730110510.png",
     "book/data/Pasted image 20230502181520.png",
@@ -171,7 +165,6 @@
     "book/404.html",
     "src/ChapterNo3/3.2.md",
     "src/ChapterNo3/3.1.md",
-    "src/ChapterNo1/1.2.md",
     "src/ChapterNo3/3.4.md",
     "src/ChapterNo5/5.2.md",
     "book/ChapterNo2/2.3.html",
@@ -184,7 +177,6 @@
     "src/ChapterNo2/2.1.md",
     "src/ChapterNo5/5.1.md",
     "src/ChapterNo6/README.md",
-    "src/ChapterNo1/1.1.md",
     "src/ChapterNo1/README.md"
   ]
 }
