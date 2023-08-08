@@ -1,7 +1,7 @@
 # Summary
 
 - [ChapterNo1 美编的开始](./ChapterNo1/README.md)
-    - [荆棘鸟文学社美编标准](ChapterNo1/1.1.md)
+    - [荆棘鸟文学社刊物规格](ChapterNo1/1.1.md)
     - [前期准备](ChapterNo1/1.2.md)
 - [ChapterNo2 排版的基本知识](./ChapterNo2/README.md)
     - [文字基本属性](ChapterNo2/2.1.md)

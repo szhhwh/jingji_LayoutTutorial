@@ -3,7 +3,7 @@
 ## 本书目录 Menu
 
 - [ChapterNo1 美编的开始](src/ChapterNo1/README.md)
-    - [荆棘鸟文学社美编标准](src/ChapterNo1/1.1.md)
+    - [荆棘鸟文学社刊物规格](src/ChapterNo1/1.1.md)
     - [前期准备](src/ChapterNo1/1.2.md)
 - [ChapterNo2 排版的基本知识](src/ChapterNo2/README.md)
     - [文字基本属性](src/ChapterNo2/2.1.md)
