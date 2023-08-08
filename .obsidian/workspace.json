@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdd333e24485179",
+        "id": "6068421f853cdf12",
         "type": "tabs",
         "children": [
           {
-            "id": "bc9324ed750b8bc6",
+            "id": "aecf5ffcb27caab2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/ChapterNo2/2.3.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/ChapterNo2/2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/ChapterNo2/2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/ChapterNo2/2.3.md"
+              }
             }
           }
         ]
@@ -135,44 +143,43 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bc9324ed750b8bc6",
+  "active": "aecf5ffcb27caab2",
   "lastOpenFiles": [
-    "README.md",
-    "src/ChapterNo6/README.md",
+    "src/ChapterNo2/2.3.md",
+    "src/data/Pasted image 20230808134900.png",
+    "src/data/073c4599ef5fcc15e08798c45ee576b3_MD5.png",
+    "src/data/Pasted image 20230408230343.png",
+    "src/data/Pasted image 20230408231210.png",
+    "src/data/汇总排版流程图 1.svg",
+    "src/data/Snipaste_2023-06-06_18-00-53.jpg",
+    "src/data/Snipaste_2023-06-06_18-07-58.jpg",
+    "src/data/v2-1256de0b84f3b248cc9107268464030c_1440w.webp",
+    "src/ChapterNo3/3.4.md",
+    "book/data/Pasted image 20230730125246.png",
+    "book/data/Pasted image 20230730121113.png",
+    "src/ChapterNo3/3.3.md",
+    "src/ChapterNo3/3.2.md",
+    "src/ChapterNo3/3.1.md",
+    "src/ChapterNo2/2.2.md",
+    "src/ChapterNo2/2.1.md",
+    "src/ChapterNo5/5.1.md",
     "src/ChapterNo6/6.3.md",
     "src/ChapterNo6/6.2.md",
     "src/ChapterNo6/6.1.md",
-    "src/ChapterNo5/README.md",
     "src/ChapterNo5/5.2.md",
-    "src/ChapterNo5/5.1.md",
+    "README.md",
+    "src/ChapterNo6/README.md",
+    "src/ChapterNo5/README.md",
     "src/ChapterNo1/README.md",
     "src/ChapterNo1/1.2.md",
     "src/ChapterNo1/1.1.md",
     "src/ChapterNo4/4.3.md",
     "src/ChapterNo4/4.2.md",
     "src/ChapterNo4/4.1.md",
-    "src/ChapterNo3/3.4.md",
     "src/ChapterNo3/文字绕排.md",
-    "src/ChapterNo3/3.3.md",
-    "src/ChapterNo3/3.2.md",
-    "src/ChapterNo3/3.1.md",
-    "src/ChapterNo2/2.3.md",
     "src/ChapterNo2/README.md",
-    "src/ChapterNo2/2.2.md",
-    "src/ChapterNo2/2.1.md",
     "src/SUMMARY.md",
-    "book/data/Pasted image 20230808135328.png",
-    "book/data/Pasted image 20230808134900.png",
-    "src/data/Pasted image 20230808135328.png",
     "src/ChapterNo2/2.3.md.md",
-    "src/data/Pasted image 20230808134900.png",
-    "src/README.md",
-    "book/data/Pasted image 20230730110510.png",
-    "book/data/Pasted image 20230502181520.png",
-    "book/data/Pasted image 20230502181049.png",
-    "book/data/Pasted image 20230502180842.png",
-    "book/data/Pasted image 20230502180614.png",
-    "book/data/Pasted image 20230422023324.png",
     "book/ayu-highlight.css",
     "book/book.js",
     "book/404.html",
